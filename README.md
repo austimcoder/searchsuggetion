@@ -6,6 +6,7 @@ At the start of execution, Application asks for number of string can be enlisted
 1. Suggestion
 2. Submit
 3. exit
+
 If you choose suggest it will show you the list of Type ahead suggetion.  
 On selecting the submit, it will store the string for future suggestion. 
 
@@ -32,8 +33,9 @@ TopMostFrequentStringList is basically maintain the ordered list of submitted wi
                                
 
 Execution Instructions:
-1.Set the JAVA_HOME variable with home directory of java jdk
-2.Open cmd and got application home directory perform maven build by doing "maven clean install"
-3.Go to target folder and run the application using command "java -jar searchsuggestion.jar"
+
+1. Set the JAVA_HOME variable with home directory of java jdk
+2. Open cmd and got application home directory perform maven build by doing "maven clean install"
+3. Go to target folder and run the application using command "java -jar searchsuggestion.jar"
 
                                
