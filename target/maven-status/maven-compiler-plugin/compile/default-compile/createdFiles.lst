@@ -1,0 +1,4 @@
+com\searchsuggestion\searchsuggetion\core\TopMostFrequentStringsList.class
+com\searchsuggestion\searchsuggetion\core\SearchSuggestionEngine.class
+com\searchsuggestion\searchsuggetion\core\StringFrequency.class
+com\searchsuggestion\searchsuggetion\core\SearchSuggestion.class
